@@ -11,6 +11,7 @@ body {
     color: #ffffff;
     min-height: 100vh;
     padding: 24px;
+    margin: auto;
 }
 
 .container {
